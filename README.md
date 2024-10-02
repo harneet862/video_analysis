@@ -13,7 +13,7 @@ This repository contains a Python script for analyzing video footage of bee inte
 - Calculates interaction probabilities based on tracked data.
 - Generates visualizations to display bee movement patterns.
 - Supports long video recordings for comprehensive analysis.
-- 
+  
 ## Technologies Used
 - Programming Language: Python
 - Video Analysis: OpenCV
@@ -29,7 +29,7 @@ This repository contains a Python script for analyzing video footage of bee inte
 ## Usage
 1. Run the video analysis script:
 `python video_analysis.py --input <path_to_your_video> --output <path_to_output_file>`
-Replace <path_to_your_video> with the path to the video file and <path_to_output_file> with the desired output file name.
+Replace `<path_to_your_video>` with the path to the video file and `<path_to_output_file>` with the desired output file name.
 2. The script will process the video and generate output visualizations and interaction probabilities.
 
 ## Data Analysis
